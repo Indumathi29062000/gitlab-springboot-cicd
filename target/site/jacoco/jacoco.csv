@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+studentdetails,com.demo.studentdetails,StudentdetailsApplication,5,3,0,0,2,1,1,1,1,1
+studentdetails,com.demo.studentdetails,StudentDetailsModel,24,0,0,0,9,0,4,0,4,0
+studentdetails,com.demo.studentdetails,StudentDetailsController,20,8,0,0,4,2,2,1,2,1
